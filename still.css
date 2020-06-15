@@ -1,0 +1,27 @@
+ @charset "utf-8";
+ /* CSS Document*/
+ p{
+	 color: indigo;
+	 width: 600px;
+	 background-color: white;
+	 padding: 20px;
+ }
+ h2{
+	 color: white;
+	 background-color: indigo;
+	 width: 600px;
+ }
+ body{
+	 background-image: url("pozadina.png")
+ }
+ img {
+	 height: 200px;
+ }
+ a:link{
+	 color:indigo;
+	 background-color:lavender;
+	 border:1px 
+ }
+ a:hover{
+	 background-color:white;
+ }
